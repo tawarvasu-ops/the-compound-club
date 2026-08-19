@@ -1,6 +1,6 @@
 # Fieldnotes
 
-A Next.js 14 (App Router) blog with a notebook/ledger visual identity:
+A Next.js 16 (App Router) blog with a notebook/ledger visual identity:
 dated entries instead of numbered lists, a fixed left "spine," and a
 hand-drawn underline as the hover interaction.
 
